@@ -1,0 +1,4 @@
+D:\ProjectsCPP\Tray2\Tray2\x64\Debug\Tray2.vcxproj.AssemblyReference.cache
+D:\ProjectsCPP\Tray2\Tray2\x64\Debug\Tray2.vcxproj.SuggestedBindingRedirects.cache
+D:\ProjectsCPP\Tray2\Tray2\x64\Debug\Tray2.MyForm.resources
+D:\ProjectsCPP\Tray2\Tray2\x64\Debug\Tray2.vcxproj.GenerateResource.cache
